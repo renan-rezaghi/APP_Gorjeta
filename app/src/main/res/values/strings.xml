@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="calculate_tip">Calcular Gorjeta</string>
+    <string name="bill_amount">Valor da Conta</string>
+    <string name="tip_percent">Porcentagem da Gorjeta</string>
+    <string name="tip_amount">Valor da Gorjeta: %s</string>
+</resources>
